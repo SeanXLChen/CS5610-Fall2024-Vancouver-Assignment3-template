@@ -28,3 +28,18 @@ Your goal is to create a backend API for TikTok’s new Employee Hours Tracking 
 ### Grading Rubrics (100 Points)
 - Server must implement the 9 routes according to the documentation at [ROUTES.md](./ROUTES.md)
 
+
+### Automated Testing
+
+Your project will be automatically tested against the rubric using a set of predefined tests. These tests will check the structure and content of your HTML and CSS files, so ensure your project strictly follows the guidelines provided. :warning: :warning: :warning: Any modification to files outside the `server` folder could result in failed tests or disqualification of your submission. :warning: :warning: :warning:
+
+#### Viewing Your Autograder Score
+
+To access the results of the autograder for your commits, follow these steps:
+
+1. After pushing your changes to GitHub, click on the commit message to view the details of the specific commit.
+   ![image](./resource/readme-img1.png)
+2. On the commit details page, find the Actions status and click on it to view the results of the autograder task.
+   ![image](./resource/readme-img2.png)
+3. Review the detailed report of your autograded score. This report will show which tests passed or failed, and how many points were awarded based on the rubric.
+   ![image](./resource/readme-img3.png)
