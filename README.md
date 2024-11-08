@@ -8,10 +8,6 @@ Here’s your mission (should you choose to accept it 😉):
 
 Your goal is to create a backend API for TikTok’s new Employee Hours Tracking System. This API will enable team members to check in, log their hours, update their info, and even remove their profiles if necessary. To make this easier, your manager provided a set of detailed API routes you’ll need to implement in a separate file [ROUTES.md](./ROUTES.md)
 
-Your team has also had a express server seted under `server/`, and you are tasked to implement the Route logics on this [server implementation file](./server/serverImplementation.js) 
-
-Use `npm start` you can already run your starting server, feel free to change your server port.
-
 ### Instructions 📜
 
 1. **API Endpoints**: 
