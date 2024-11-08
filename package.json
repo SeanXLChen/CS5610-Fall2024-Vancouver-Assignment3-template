@@ -4,7 +4,7 @@
   "description": "**Welcome aboard! 🎉** You’ve just been hired as a Backend Developer Co-op in Vancouver’s brand-new TikTok office. As the Vancouver team is settling in, they’ve given you an exciting task: **building an internal hours-tracking and check-in system for employees.** This system will help team members log their working hours and track their productivity.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npx jest",
     "start": "node server/server.js"
   },
   "keywords": [],
@@ -13,6 +13,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "node": "^22.11.0"
+    "node": "^22.11.0",
+    "supertest": "^7.0.0"
   }
 }

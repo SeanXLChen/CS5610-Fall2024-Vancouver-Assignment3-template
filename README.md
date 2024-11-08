@@ -53,7 +53,7 @@ Each route is worth a portion of your grade as follows:
 
 ### Automated Testing
 
-Your project will be automatically tested against the rubric using a set of predefined tests. These tests will check the structure and content of your HTML and CSS files, so ensure your project strictly follows the guidelines provided. :warning: :warning: :warning: Any modification to files outside the `server` folder could result in failed tests or disqualification of your submission. :warning: :warning: :warning:
+Your project will be automatically tested against the rubric using a set of predefined tests. These tests will check the structure and content of your HTML and CSS files, so ensure your project strictly follows the guidelines provided. :warning: :warning: :warning: Any modification to files outside the `server/` folder could result in failed tests or disqualification of your submission. :warning: :warning: :warning:
 
 #### Viewing Your Autograder Score
 
