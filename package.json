@@ -1,0 +1,18 @@
+{
+  "name": "cs5610-fall2024-vancouver-assignment3-template",
+  "version": "1.0.0",
+  "description": "**Welcome aboard! 🎉** You’ve just been hired as a Backend Developer Co-op in Vancouver’s brand-new TikTok office. As the Vancouver team is settling in, they’ve given you an exciting task: **building an internal hours-tracking and check-in system for employees.** This system will help team members log their working hours and track their productivity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "node": "^22.11.0"
+  }
+}
